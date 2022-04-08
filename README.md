@@ -1,16 +1,22 @@
-### Hi there 👋
+# 📖 Introduction 
 
-<!--
-**chouding/chouding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I am Raymond!
+### I am currently:
+ - An ***aspiring*** Full-Stack Software Developer
+ - A Computer Science major @ UC Irvine (2025)
 
-Here are some ideas to get you started:
+# 🙌 Skills
+### Right now learning:
+- Python
+- HTML/CSS
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📞 Contact
+➡️ [Email](raymond.chou523@gmail.com)
+
+➡️ [LinkedIn](https://www.linkedin.com/in/raymond-chou-bb6156223)
+
+➡️ [RESUME TBD](https://www.linkedin.com/in/raymond-chou-bb6156223)
+
+
+*Right now my GitHub is a work in progress, but expect some wonderful projects in the not so distant future!*
