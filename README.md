@@ -6,7 +6,7 @@
  - A Computer Science major @ UC Irvine (2025)
 
 # 🙌 Skills
-### Right now learning:
+### Learning:
 - Python
 - HTML/CSS
 - Javascript
