@@ -17,7 +17,7 @@
 
 ➡️ [LinkedIn](https://www.linkedin.com/in/raymond-chou-bb6156223)
 
-➡️ [Resume](https://drive.google.com/file/d/1oiP2E5p4_a_zwMnXzTfuFCrLvIqUcPdp/view?usp=sharing)
+➡️ [Resume](https://drive.google.com/file/d/1EqrfZFOmirFwYEu68svzFd9iRKVZZlAi/view?usp=sharing)
 
 
 *Right now my GitHub is a work in progress, but expect some wonderful projects in the not so distant future!*
