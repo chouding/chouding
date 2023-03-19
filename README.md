@@ -8,6 +8,7 @@
 # 🙌 Skills
 ### 
 - Python
+- Java
 - HTML/CSS
 - JavaScript
 - React.JS
