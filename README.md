@@ -2,7 +2,7 @@
 
 ### Hello, I am Raymond!
 ### I am currently:
- - An ***aspiring*** Full-Stack Software Developer
+ - An ***aspiring*** Full-Stack Software Developer with potential interests in other fields
  - A Computer Science major @ UC Irvine (Expected Grad: Spring2024)
 
 # 🙌 Skills
