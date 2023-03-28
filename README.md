@@ -12,6 +12,7 @@
 - HTML/CSS
 - JavaScript
 - React.JS
+- SQL
 
 # 📞 Contact
 ➡️ [Email](raymond.chou523@gmail.com)
