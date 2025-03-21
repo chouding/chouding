@@ -9,7 +9,11 @@
 
 <h1 align="center">👋 Hi, I'm Raymond Chou</h1>
 
+<h3 align="center">💻 Software Developer  | 🎓 B.S. CS+SWE @ UCI</h3>
+
 ###
+
+<h3 align="left">Experience</h3>
 
 `June 2023 - June 2024`: Web Developer @ [DEOC](https://policies.uci.edu/) <br><br>
 `Jan 2024 - June 2024` : Frontend Developer (Capstone) @ [RTX](https://www.rtx.com/)<br><br>
@@ -81,8 +85,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
