@@ -9,13 +9,13 @@
 
 <h1 align="center">👋 Hi, I'm Raymond Chou</h1>
 
-<h3 align="center">💻 Software Developer  | 🎓 B.S. CS+SWE @ UCI</h3>
+<h3 align="center">💻 Software Engineer  | 🎓 CS + SWE @ UCI</h3>
 
 ###
 
 <h3 align="left">Experience</h3>
 
-`June 2025 - Sept 2025`: Front-end Engineer AWS Intern @ [Amazon](https://aws.amazon.com/)<br><br>
+`June 2025 - Sept 2025`: Software Engineer Intern @ [Amazon Web Services](https://aws.amazon.com/)<br><br>
 `Jan 2025 - June 2025` : Software Engineer Intern @ [GlucoGuard](https://www.glucoguardsleep.com/)<br><br>
 `June 2024 - Sept 2024`: Software Engineer Intern @ [Amgen Inc.](https://www.amgen.com/)<br><br>
 `Jan 2024 - June 2024` : Software Engineer (Capstone Project) @ [RTX](https://www.rtx.com/)<br><br>
