@@ -15,7 +15,7 @@
 
 <h3 align="left">Experience</h3>
 
-`June 2025 - Sept 2025`: Software Engineer Intern @ [Amazon Web Services](https://aws.amazon.com/)<br><br>
+`June 2025 - Sept 2025`: Software Development Engineer Intern @ [Amazon Web Services](https://aws.amazon.com/)<br><br>
 `Jan 2025 - June 2025` : Software Engineer Intern @ [GlucoGuard](https://www.glucoguardsleep.com/)<br><br>
 `June 2024 - Sept 2024`: Software Engineer Intern @ [Amgen Inc.](https://www.amgen.com/)<br><br>
 `Jan 2024 - June 2024` : Software Engineer (Capstone Project) @ [RTX](https://www.rtx.com/)<br><br>
